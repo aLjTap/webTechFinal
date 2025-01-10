@@ -55,3 +55,9 @@ div.boxContainer {
   width: 80%;
   height: 70%;
 }
+
+div.box2 strong {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
